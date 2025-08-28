@@ -1,0 +1,2 @@
+I Johanna Siebol, hereby declare that I am all set to write c++ code for linu(or mac-unix) and 
+push the code to GitHub from my command line.
